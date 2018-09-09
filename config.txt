@@ -1,0 +1,11 @@
+token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
+
+owner=470500980342128650
+
+prefix=12 
+
+game=Type 12hwlp
+
+stayinchannel=true
+
+songinstatus=true
